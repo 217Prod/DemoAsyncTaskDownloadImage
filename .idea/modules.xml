@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AsyncTaskProgressBar.iml" filepath="$PROJECT_DIR$/AsyncTaskProgressBar.iml" />
       <module fileurl="file://E:\AnhLeFolder\workspace\DemoAsyncTaskDownloadImage\AsyncTaskProgressBar.iml" filepath="E:\AnhLeFolder\workspace\DemoAsyncTaskDownloadImage\AsyncTaskProgressBar.iml" />
       <module fileurl="file://$PROJECT_DIR$/DemoAsyncTaskDownloadImage.iml" filepath="$PROJECT_DIR$/DemoAsyncTaskDownloadImage.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
