@@ -36,9 +36,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         intiView();
 //        new ProgressShow().execute();
-        String url = "https://www.google.com/search?q=nguoi+toi+yeu&client=ubuntu&hs=pO5&channel=" +
-                "fs&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjX_4ns7ubZAhVFGJQKHXc9AngQ_AUICygC&biw=" +
-                "1299&bih=639#imgrc=VDngfuht2b6ElM:";
+        String url = "https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-1/p160x160/28059509_" +
+                "573025346364519_2716153788075448276_n.jpg?oh=abbb9af2bd2667d0a4b82d5c8d491931&oe=5B44148A";
 //        new AsyncTaskDownloadImage().execute(url);
         new DownloadImage(this, url).execute();
 
